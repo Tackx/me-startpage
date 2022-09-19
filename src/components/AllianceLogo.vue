@@ -1,5 +1,5 @@
 <template>
-  <div class="links-wrapper">
+  <div class="logo-wrapper">
     <img src="../assets/me.png" alt="Systems Alliance Logo" />
   </div>
 </template>
@@ -17,28 +17,24 @@
 </script>
 
 <style scoped>
-  .links-wrapper {
+  .logo-wrapper {
     /* position: flex;
       top: 0;
       left: 0;
       min-height: 100%; */
-    width: 100%;
+    /* width: 100%; */
     color: var(--color-text);
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 4em;
     background-color: var(--color-frame-background);
-    border-radius: 20px;
-    padding: 20px;
+    max-width: 270px;
   }
-  .link,
-  .link:visited {
-    color: white;
-  }
-  .link:hover,
-  .link:active {
-    color: rgb(138, 141, 145);
+  img {
+    /* width: 35%;
+    height: 35%; */
+    max-width: 100%;
+    max-height: 100%;
   }
 </style>

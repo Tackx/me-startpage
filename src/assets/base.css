@@ -32,5 +32,7 @@
     -moz-osx-font-smoothing: grayscale;
     background: rgb(2,0,36);
     background: linear-gradient(180deg, rgba(2,0,36,1) 32%, rgba(11,48,103,0.8939776594231442) 76%, rgba(0,125,255,1) 100%); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
   }
   

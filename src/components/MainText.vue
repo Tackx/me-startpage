@@ -24,9 +24,9 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 10em;
+    margin-top: 3em;
   }
   h1 {
-    font-size: 7em;
+    font-size: 2em;
   }
 </style>

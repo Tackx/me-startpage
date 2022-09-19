@@ -21,7 +21,7 @@
   button {
     font-family: ME;
     color: var(--color-text-main);
-    font-size: 4em;
+    font-size: 1em;
     background-color: var(--color-frame-background-button);
     border-radius: 10px;
     padding: 0.2em;

@@ -32,14 +32,14 @@
     height: 100%;
     justify-content: top;
     align-items: center;
-    gap: 13em;
+    gap: 3em;
   }
   .items {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 1em;
+    gap: 3em;
   }
   .row {
     display: flex;

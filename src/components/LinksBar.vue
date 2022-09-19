@@ -1,9 +1,9 @@
 <template>
   <div class="links-wrapper">
-    <a class="link" href="https://www.reddit.com"><mdicon size="256" name="reddit" /></a>
-    <a class="link" href="https://www.youtube.com"><mdicon size="256" name="youtube" /></a>
-    <a class="link" href="https://www.savla.dev"><mdicon size="256" name="satellite-variant" /></a>
-    <a class="link" href="https://www.github.com"><mdicon size="256" name="github" /></a>
+    <a class="link" href="https://www.reddit.com"><mdicon size="64" name="reddit" /></a>
+    <a class="link" href="https://www.youtube.com"><mdicon size="64" name="youtube" /></a>
+    <a class="link" href="https://www.savla.dev"><mdicon size="64" name="satellite-variant" /></a>
+    <a class="link" href="https://www.github.com"><mdicon size="64" name="github" /></a>
   </div>
 </template>
 

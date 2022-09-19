@@ -24,10 +24,10 @@
     justify-content: center;
     align-items: center;
     background-color: var(--color-frame-background-error);
-    border-radius: 20px;
-    padding: 2em;
+    border-radius: 7px;
+    padding: 1em;
   }
   h1 {
-    font-size: 7em;
+    font-size: 2em;
   }
 </style>

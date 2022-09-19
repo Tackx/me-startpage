@@ -60,12 +60,12 @@
     padding: 20px;
   }
   #weekday {
-    font-size: 5em;
+    font-size: 2em;
   }
   #date {
-    font-size: 5em;
+    font-size: 2em;
   }
   #time {
-    font-size: 6em;
+    font-size: 2em;
   }
 </style>
