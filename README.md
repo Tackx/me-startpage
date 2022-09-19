@@ -1,4 +1,8 @@
-# me-startpage
+# ME-Startpage
+
+Tried to (sort of) replicate the ME1 character creation screen.
+
+Deployed at: https://tackx.github.io/me-startpage/
 
 ### Credits
 
