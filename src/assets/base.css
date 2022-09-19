@@ -1,0 +1,37 @@
+:root {
+    --color-frame-background: rgba(105, 103, 103, 0);
+    --color-frame-background-error: rgba(255, 0, 0, 0.253);
+    --color-frame-background-button: #314b55;
+    --color-button: #2f2f2f;
+    --color-button-hover: #101010;
+    /* --color-text: #2f2f2f; */
+    --color-text: #ffffff;
+    --color-text-main: #cceaf7;
+    --color-text-error: #f50202;
+  }
+
+  @font-face {
+    font-family: ME;
+    src: url(me123.ttf);
+}
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    margin: 0;
+    position: relative;
+    font-weight: normal;
+  }
+  
+  body {
+    font-family: ME;
+    width: 100vw;
+    height: 100vh;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 32%, rgba(11,48,103,0.8939776594231442) 76%, rgba(0,125,255,1) 100%); 
+  }
+  
