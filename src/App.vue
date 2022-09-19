@@ -4,6 +4,8 @@
   import ClassifiedNotification from './components/ClassifiedNotification.vue';
   import TerminalAnimation from './components/TerminalAnimation.vue';
   import DefaultButton from './components/DefaultButton.vue';
+  import DateTime from './components/DateTime.vue';
+  import LinksBar from './components/LinksBar.vue';
 </script>
 
 <template>
@@ -17,6 +19,8 @@
       </div>
       <AllianceLogo />
     </div>
+    <DateTime />
+    <LinksBar />
   </div>
 </template>
 
